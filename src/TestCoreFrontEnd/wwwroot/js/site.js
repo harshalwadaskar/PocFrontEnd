@@ -10,12 +10,12 @@ var SpReturnVal = '';
 function GetEmployee() {
 
     jQuery.support.cors = true;
-    /*
-    $.get(url + '/' + 0, function (person) {
+    
+    $.get(url + '/GetData', function (person) {
         bindHtml(person);
     });
-*/
-    GetCall();
+
+   // GetCall();
 }
 
 
