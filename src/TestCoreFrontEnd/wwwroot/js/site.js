@@ -2,7 +2,7 @@
 // Write your Javascript code.
 
 
-var url = 'http://aspnet-core-example-prasanna-core.cloudapps.click2cloud.org/api/Test/'//'http://192.168.0.183:812/api/values' //'http://localhost:1025/api/values'//
+var url = 'http://aspnet-core-example-harshaluatproject1.cloudapps.click2cloud.org/api/Test/'//'http://192.168.0.183:812/api/values' //'http://localhost:1025/api/values'//
 var Table = $('#tblentry', '.bs-example');
 var Arr = [];
 var SpReturnVal = '';
