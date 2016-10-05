@@ -9,13 +9,13 @@ var SpReturnVal = '';
 
 function GetEmployee() {
 
-    jQuery.support.cors = true;
+   /* jQuery.support.cors = true;
     
     $.get(url + '/GetData', function (person) {
         bindHtml(person);
-    });
+    });*/
 
-   // GetCall();
+   GetCall();
 }
 
 
